@@ -17,3 +17,6 @@ This is a simple calculator web application that performs basic arithmetic opera
 1. Download or clone the repository
 2. Open index.html in your browser
 3. Start calculating!
+
+## 🔗 Live Demo
+https://hs065871-cyber.github.io/JS-Calculator-Web-App/
